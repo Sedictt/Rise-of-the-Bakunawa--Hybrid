@@ -1,0 +1,4 @@
+repository "Rise of the Bakunawa/Rise of the Bakunawa@18968318213883@cloud"
+  path "/"
+    br "/main"
+    co "/main"
